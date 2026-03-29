@@ -1,96 +1,75 @@
-<!-- HEADER -->
+<h1 align="center">rylsherdamz</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e293b,100:334155&height=180&section=header&text=Richie%20%7C%20Fullstack%20Developer&fontSize=36&fontColor=e2e8f0"/>
+  Fullstack Developer
 </p>
 
-<h2 align="center">Richie</h2>
 <p align="center">
-  Fullstack Developer • Web & Mobile • Systems-focused
+  <b>Linux (Arch-based) • Neovim • Fullstack • Web3 • Mobile</b>
+</p>
+
+<p align="center">
+  I use Arch, by the way.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/richie-christian-de-guzman-53b015392">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://richie-christian-de-guzman.vercel.app/">
+    <img src="https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## About
 
-```bash
-name        : Richie
-role        : Fullstack Developer
-focus       : scalable apps, clean UI, real-world systems
-environment : Linux + Neovim
-```
+* Fullstack developer building **web, mobile, and decentralized applications**
+* Focused on **performance, scalability, and clean architecture**
+* Experienced with **React, Next.js, Node.js, React Native, and Web3 (Solidity, smart contracts)**
+* Daily workflow powered by **Neovim on an Arch-based setup**
 
 ---
 
-## Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,typescript,javascript,tailwind,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,typescript,javascript,tailwind,docker,git,linux,solidity,ethereum" />
 </p>
 
 ---
 
-## Environment
+## Featured Work
 
-```bash
-OS        : Linux (Arch-based)
-WM        : Hyprland
-Editor    : Neovim
-Terminal  : Kitty
-Shell     : Zsh
-```
+* Fullstack web applications (auth, APIs, dashboards)
+* Mobile apps using React Native / Expo
+* Backend services and REST APIs
+* Web3 applications (smart contracts, dApps, Solidity)
+* AI / automation integrations
+* Developer tooling and workflow optimization
 
 ---
 
-## Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rylsherdamz-rgb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rylsherdamz-rgb&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rylsherdamz-rgb&show_icons=true&theme=default&hide_border=true"/>
 </p>
 
 ---
 
-## Work
+## Current Focus
 
-* Fullstack web applications
-* Mobile apps (React Native)
-* AI integrations
-* Developer tools
-
----
-
-## Live
-
-<p align="center">
-  <a href="https://your-vercel-app.vercel.app">
-    <img src="https://img.shields.io/badge/app-live-1e293b?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## Status
-
-```bash
-portfolio   : online
-api         : running
-database    : connected
-```
+* Scalable system design
+* Backend architecture
+* Web3 / smart contract development
+* AI-assisted applications
+* Improving developer workflows
 
 ---
 
 ## Contact
 
-<p align="center">
-  <a href="https://github.com/rylsherdamz-rgb">
-    <img src="https://img.shields.io/badge/github-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>Simple. Fast. Maintainable.</sub>
-</p>
+* LinkedIn: https://linkedin.com/in/richie-christian-de-guzman-53b015392
+* GitHub: https://github.com/rylsherdamz-rgb
