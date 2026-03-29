@@ -1,10 +1,6 @@
 <h1 align="center">rylsherdamz</h1>
 
 <p align="center">
-  Fullstack Developer
-</p>
-
-<p align="center">
   <b>Linux (Arch-based) • Neovim • Fullstack • Web3 • Mobile</b>
 </p>
 
@@ -54,9 +50,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rylsherdamz-rgb&show_icons=true&theme=default&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rylsherdamz-rgb&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## Current Focus
