@@ -4,9 +4,6 @@
   <b>Linux (Arch-based) • Neovim • Fullstack • Web3 • Mobile</b>
 </p>
 
-<p align="center">
-  I use Arch, by the way.
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/richie-christian-de-guzman-53b015392">
